@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Diffy documentation
+  structure:
+    - type: space
+      key: space-1
+      title: Diffy documentation
+      path: diffy-documentation
+      default: true
+      content:
+        directory: ./diffy-documentation
