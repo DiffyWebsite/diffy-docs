@@ -3,6 +3,7 @@
 ## Features
 
 * [👋 Welcome](README.md)
+* [Diffy bot](features/diffy-bot.md)
 * [Mask & Exclude](features/mask-and-exclude.md)
 * [JavaScript snippets](features/javascript-snippets.md)
 * [HTTP headers](features/http-headers.md)
